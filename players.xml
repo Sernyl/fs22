@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="mrqgT6c0LfHWDwZRczu5oKSGVF2/31O70KOqTCJCXTg=" timeLastConnected="2022/11/25 19:30">
+        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots2" footwearConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="6" topConfigId="denimJacket" topConfigColor="1"/>
+    </player>
+    <player uniqueUserId="zAdVf8dWARhrs3xfxm/vlZ712bk+nz1mWoJ+D/vAoX0=" timeLastConnected="2022/11/25 19:30">
+        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="motionPants" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="sneakers" footwearConfigColor="19" glassesConfigId="sports1" glassesConfigColor="1" glovesConfigId="racing" glovesConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="17" headgearConfigId="ballcap" headgearConfigColor="72" topConfigId="topHoodie" topConfigColor="19"/>
+    </player>
+    <player uniqueUserId="i83zaco3yOLYZwHCLKXcUgcEpBu9GHr6PDT9/NzLjK4=" timeLastConnected="2022/11/23 18:02">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfigId="soulPatch_head02" beardConfigColor="6" faceConfigId="head02" faceConfigColor="1" footwearConfigId="galoshes" footwearConfigColor="6" glovesConfigId="generic" glovesConfigColor="3" hairStyleConfigId="hair08" hairStyleConfigColor="6" headgearConfigId="fisherman" headgearConfigColor="55" onepieceConfigId="synthetic" onepieceConfigColor="6"/>
+    </player>
+    <player uniqueUserId="Kb0Wn/M9IDUtqxTSNBmUVYZFR9xAeo3iaawr8X3VqOA=" timeLastConnected="2022/11/12 20:27">
+        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots2" footwearConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="6" headgearConfigId="cowboy" headgearConfigColor="5" topConfigId="denimJacket" topConfigColor="1"/>
+    </player>
+</players>

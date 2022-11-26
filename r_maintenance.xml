@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<r_maintenance>
+    <maintenanceCost>1.000000</maintenanceCost>
+    <maintenanceDuration>1.000000</maintenanceDuration>
+    <wearCost>1.000000</wearCost>
+    <wearDuration>1.000000</wearDuration>
+</r_maintenance>

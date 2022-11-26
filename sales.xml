@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="24" isGenerated="false" xmlFilename="data/vehicles/johnDeere/series7810/series7810.xml" age="15" price="36929" damage="0.194267" wear="0.657358" operatingTime="40818.921875">
+        <boughtConfiguration name="frontloader" id="1"/>
+        <boughtConfiguration name="frontloader" id="2"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="CONTINENTAL_BROAD"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+    </item>
+    <item timeLeft="26" isGenerated="true" xmlFilename="data/vehicles/masseyFerguson/ideal/idealPL.xml" age="15" price="232793" damage="0.523819" wear="0.232670" operatingTime="66180.648438">
+        <boughtConfiguration name="motor" id="6"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+    </item>
+</sales>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<missions>
+    <mission type="mow_bale" reward="4356" status="0" success="false">
+        <field id="13" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="55.613998" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
+        <bale sellPointPlaceableId="18" unloadingStationIndex="1" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="mow_bale" reward="6303" status="0" success="false">
+        <field id="16" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="65.987999" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
+        <bale sellPointPlaceableId="33" unloadingStationIndex="1" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="mow_bale" reward="7033" status="0" success="false">
+        <field id="19" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="129.265503" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
+        <bale sellPointPlaceableId="33" unloadingStationIndex="1" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="mow_bale" reward="7500" status="0" success="false">
+        <field id="18" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="328.113495" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
+        <bale sellPointPlaceableId="18" unloadingStationIndex="1" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="mow_bale" reward="6204" status="0" success="false">
+        <field id="14" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="57.362499" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
+        <bale sellPointPlaceableId="33" unloadingStationIndex="1" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="mow_bale" reward="5826" status="0" success="false">
+        <field id="15" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="4" vehicleUseCost="65.987999" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
+        <bale sellPointPlaceableId="2" unloadingStationIndex="1" fillTypeName="SILAGE" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="20755" status="0" success="false">
+        <field id="25" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="18" vehicleUseCost="1124.265991" spawnedVehicles="false" growthState="6" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
+        <harvest sellPointPlaceableId="34" unloadingStationIndex="1" expectedLiters="348241.406250" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1094" status="0" success="false">
+        <field id="66" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="11" vehicleUseCost="59.279999" spawnedVehicles="false" growthState="6" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
+        <harvest sellPointPlaceableId="34" unloadingStationIndex="1" expectedLiters="18361.980469" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="cultivate" reward="1645" status="0" success="false">
+        <field id="34" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="1" vehicleUseCost="285.200500" spawnedVehicles="false" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
+    </mission>
+    <mission type="cultivate" reward="12024" status="0" success="false">
+        <field id="68" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="1" vehicleUseCost="2084.270508" spawnedVehicles="false" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
+    </mission>
+</missions>

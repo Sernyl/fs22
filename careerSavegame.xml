@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>My game save</savegameName>
+        <creationDate>2022-10-28</creationDate>
+        <mapId>MapUS</mapId>
+        <mapTitle>Elmcreek</mapTitle>
+        <saveDateFormatted>2022-11-25</saveDateFormatted>
+        <saveDate>2022-11-25</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>false</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <stonesEnabled>true</stonesEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>2</mapSplitShapesRevision>
+        <mapTipCollisionRevision>2</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>2</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>3</mapNavigationCollisionRevision>
+        <difficulty>2</difficulty>
+        <economicDifficulty>2</economicDifficulty>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>1.000000</timeScale>
+        <autoSaveInterval>30.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="false" currentStepIndex="0" state=""/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>364497</money>
+        <playTime>2871.648682</playTime>
+    </statistics>
+    <slotSystem slotUsage="1439"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS22_realDirtParticles" title="Real Dirt Particles" version="1.0.0.0" required="false" fileHash="822bc605a4d613b8afc16a908bffec9e"/>
+    <mod modName="FS22_R3_HarvestProfit" title="Harvest Profit" version="1.0.0.0" required="false" fileHash="23b3d06aacd5b2b14b5db0f4cf44d9a5"/>
+    <mod modName="FS22_exhaustExtension" title="Exhaust Extension" version="1.0.0.1" required="false" fileHash="2db8ed2123884d31baf3a9cb441e9846"/>
+    <mod modName="FS22_cropGrowthStageInfo" title="Crop Growth Stage Info" version="1.1.0.0" required="false" fileHash="8a62b337377ab6de08a73ab3d0fc8ec5"/>
+    <mod modName="FS22_manTGS41500HKL" title="MAN TGS 41.500 ITRunner" version="1.0.0.0" required="false" fileHash="7e35a7b0e7a37525f272f1983b32124f"/>
+    <mod modName="FS22_TATRA_Phoenix_agrotruck" title="TATRA Phoenix" version="1.0.0.0" required="false" fileHash="9380729692c99172794be9da03810ce4"/>
+    <mod modName="FS22_DustyLandsExtension" title="Dusty Lands Extension" version="1.0.0.0" required="false" fileHash="5b2ae1c8805c19fa88c9a489d11f5d33"/>
+    <mod modName="FS22_realDirtColorTracks" title="Real Dirt Color Tracks" version="1.0.0.0" required="false" fileHash="fac7731901e2f4168149cd25d0aa2729"/>
+    <mod modName="FS22_SmallPalletStorage" title="Underground Storage" version="1.0.0.0" required="false" fileHash="c8bd8dbc8a4a0b49018964af5f2283f1"/>
+    <mod modName="FS22_JD8R_SideQuest" title="JD8R/US/EU/SideQuest" version="1.0.2.0" required="false" fileHash="a5ac5ab9cfd5890457cb1d7a15180c71"/>
+    <mod modName="FS22_IncreaseLightRange" title="Increase Light Range" version="1.0.0.1" required="false" fileHash="79d0c6c08d5b9ec0f9736d184ec93fec"/>
+    <mod modName="FS22_realDirtFix" title="Real Dirt Fix" version="1.0.0.0" required="false" fileHash="2dd8158aafdfde86fe2d552c2d46f2df"/>
+    <mod modName="FS22_UniversalAutoload" title="Universal Autoload" version="1.2.1.0" required="false" fileHash="7017d60c0e8cfcc43b9e1fedfcb056e1"/>
+    <mod modName="FS22_StrongFarmer" title="Strong Farmer" version="1.0.0.0" required="false" fileHash="8c3e0fa978c81eba65e1185635affe71"/>
+    <mod modName="FS22_Lizard1959" title="Lizard 1959" version="1.0.0.0" required="false" fileHash="ead582e83a1f5b5a4ec315e95c8497d7"/>
+    <mod modName="FS22_A_ProductionRevamp" title="Production Revamp" version="1.3.5.1" required="false" fileHash="62ba82b6f9e3153c2f755d33134e254c"/>
+    <mod modName="FS22_itRunnerPack" title="ITRunner Pack" version="1.0.0.0" required="false" fileHash="6aa4e35deba6a66e9545a1c30800638c"/>
+    <mod modName="FS22_cultivatorFieldCreator" title="Cultivator Field Creator" version="1.1.0.0" required="false" fileHash="560953a860f300037b91626695c93179"/>
+    <mod modName="FS22_realDirtColor" title="Real Dirt Color" version="1.2.5.2" required="false" fileHash="834556d228bc3248ade1495009ff1e86"/>
+    <mod modName="FS22_Configure_Maintenance" title="Repair And Paint Settings" version="1.1.0.1" required="false" fileHash="2d6922ce1160003a8c3a6959e64a1279"/>
+</careerSavegame>
